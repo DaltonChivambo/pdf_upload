@@ -31,3 +31,6 @@ out/
 *.local
 *.cache
 coverage/
+
+# uploads
+uploads/
